@@ -2,7 +2,7 @@
 .env
 .vscode
 .__pycache__
-app.db
+wine.db
 env/
 .env
 test.py
