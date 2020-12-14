@@ -3,6 +3,6 @@
 .vscode
 .__pycache__
 app.db
-app_env/
-.app_env
+env/
+.env
 test.py
