@@ -4,5 +4,5 @@
 .__pycache__
 app.db
 app_env/
-env/
+.app_env
 test.py
